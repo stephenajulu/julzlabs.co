@@ -11,20 +11,8 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 
-    projects_number: 2
+    projects_number: 6
     view_all_url: portfolio
-  - type: cta_section
-    section_id: cta
-    title: Let’s Build Together!
-    content: >-
-      Say hello at [ajulu@julzinsight.co](mailto:ajulu@julzinsight.co) or book a 1-on-1 consultation call and let's kickstart your project now.
-    actions:
-      - label: Book a consultation now →
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
 seo:
   title: Julz Labs | Product Studio & Digital Playground
   description: >-
