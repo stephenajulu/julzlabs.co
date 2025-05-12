@@ -1,11 +1,11 @@
 {
-    "title": "Julz Insight",
+    "title": "Julz Labs",
     "color_scheme": "dark",
     "accent_color": "violet",
-    "base_font": "playfair",
+    "base_font": "karla",
     "header": {
-        "title": "Julz Insight",
-        "logo": "images/logo2.svg",
+        "title": "Julz Labs",
+        "logo": "",
         "logo_alt": "Julz logo",
         "has_nav": true,
         "nav_links": [
@@ -37,7 +37,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight 2025",
+        "content": "&copy; Julz Labs 2025",
         "has_social": false,
         "social_links": [
             {
