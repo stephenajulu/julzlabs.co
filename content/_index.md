@@ -13,10 +13,6 @@ sections:
     layout_style: mosaic 
     projects_number: 2
     view_all_url: portfolio
-  - type: posts_section
-    section_id: posts
-    col_number: three
-    posts_number: 3    
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!
