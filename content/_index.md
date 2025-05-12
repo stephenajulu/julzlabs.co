@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Engineering Solutions at The Intersection of Technology and Design
+      Engineering Impactful Solutions at The Intersection of Technology and Design
     content: >-
       Julz Labs is a product studio and after-hours digital playground by [Stephen Ajulu](https://stephenajulu.netlify.app).
   - type: portfolio_section
