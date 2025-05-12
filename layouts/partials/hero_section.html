@@ -7,7 +7,7 @@
 </style>
 <div class="spacer" style="height:100px;"></div>
 {{ $section := .section }}
-<section id="{{ $section.section_id }}" class="hero">
+<section id="{{ $section.section_id }}" class="hero" style="align-items: center;text-align: center;"">
   <div class="container container--lg"> <!--style="align-items: center;text-align: center;"-->
     {{ if $section.title }}
     <h1 class="hero__title introhero" style="background: linear-gradient(166deg, #542bff, #ffffff);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
@@ -19,7 +19,7 @@
       {{ partial "markdownify-block" $section.content }}
     </div>
     {{ end }}
-    <div class="hero__actions button-group center"> <!--style="justify-content: center;"-->
+    <div class="hero__actions button-group center" style="justify-content: center;"> <!--style="justify-content: center;"-->
       <a href="/contact/" class="button button--primary">Let's Begin With A Free Call →</a>
     </div>
   </div>
