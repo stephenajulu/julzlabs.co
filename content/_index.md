@@ -8,16 +8,16 @@ sections:
       Engineering at The Intersection of Technology and Design
     content: >-
       Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
-  - type: posts_section
-    section_id: posts
-    title: 
-    col_number: two
-    posts_number: 2    
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 
     projects_number: 2
     view_all_url: portfolio
+  - type: posts_section
+    section_id: posts
+    title: Insights
+    col_number: two
+    posts_number: 2    
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!
