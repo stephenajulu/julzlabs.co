@@ -13,6 +13,38 @@ sections:
     layout_style: mosaic 
     projects_number: 6
     view_all_url: portfolio
+  - type: grid_section
+    section_id: services
+    title: Services
+    col_number: three
+    grid_items:
+      - title: Digital Innovation & Infrastructure
+        image: images/service-1.svg
+        content: |-
+          *Focused on leveraging technology for seamless business operations and transformative digital experiences.*
+          - Web Development 
+          - Digital Transformation
+          - Managed Open Source Business Infrastructure ⁕
+          - Cloud Solutions
+          - Automation & AI
+      - title: Design Excellence & Brand Strategy
+        image: images/service-2.svg
+        content: |-
+          *Elevating aesthetics, art and brand identity through innovative, human-centered design.*
+          - Branding & Brand Identity Design ⁕
+          - Web Design
+          - Design System Development
+          - Retail & Packaging Design
+          - Naming & Strategy
+      - title: Emerging Tech & Product Engineering
+        image: images/service-3.svg
+        content: |-
+          *Pushing the bounderies of innovation with advanced technologies and research-driven development.*
+          - Tech Consulting ⁕
+          - Human-Centered Product Design
+          - Hardware & IOT Prototyping
+          - Emerging Tech R&D
+          - Full-Stack Software Development
 seo:
   title: Julz Labs | Product Studio & Digital Playground
   description: >-
