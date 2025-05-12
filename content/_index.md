@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Illuminating Possibilities with Impactful Tech, Innovative Products & Data-Driven Insights.
+      Engineering at The Intersection of Technology and Design
     content: >-
-      We engineer tech solutions & cutting-edge products, driving innovation with expertly managed open-source infrastructure, empowering businesses to scale, adapt, and lead in a rapidly evolving landscape.
+      Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 
