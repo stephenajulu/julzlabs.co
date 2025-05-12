@@ -16,8 +16,8 @@ sections:
   - type: posts_section
     section_id: posts
     title: Insights
-    col_number: two
-    posts_number: 2    
+    col_number: three
+    posts_number: 3    
   - type: cta_section
     section_id: cta
     title: Let’s Build Together!
@@ -33,7 +33,7 @@ sections:
 seo:
   title: Julz Labs | Product Studio & Digital Playground
   description: >-
-   We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
+   Engineering at The Intersection of Technology and Design,  Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
   extra:
     - name: 'og:type'
       value: website
@@ -43,7 +43,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
+        Engineering at The Intersection of Technology and Design,  Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -58,6 +58,6 @@ seo:
       value: Julz Labs | Product Studio & Digital Playground
     - name: 'twitter:description'
       value: >-
-        We are a tech firm and lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, Cloud, Design, Open-Source, and digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges and illuminate possibilities.
+        Engineering at The Intersection of Technology and Design,  Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
 layout: advanced
 ---
