@@ -5,7 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "JULZ LABS",
-        "logo": "/julzlabslogo.svg",
+        "logo": "julzlabslogo.svg",
         "logo_alt": "Julz logo",
         "has_nav": true,
         "nav_links": [
