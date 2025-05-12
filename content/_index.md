@@ -10,13 +10,11 @@ sections:
       Julz Labs is a product studio and after-hours digital playground by [Stephen Ajulu](https://stephenajulu.netlify.app).
   - type: portfolio_section
     section_id: latest-projects
-    subtitle: Featured Works
     layout_style: mosaic 
     projects_number: 2
     view_all_url: portfolio
   - type: posts_section
     section_id: posts
-    subtitle: Insights
     col_number: three
     posts_number: 3    
   - type: cta_section
