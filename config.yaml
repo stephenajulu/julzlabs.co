@@ -1,5 +1,5 @@
-title: Julz Insight
-baseURL: https://julzinsight.netlify.app
+title: Julz Labs
+baseURL: https://julzlabs.netlify.app
 markup:
   goldmark:
     renderer:
@@ -10,7 +10,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 author:
-  name: Julz Insight
+  name: Julz Labs
 copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
   International License.
 languageCode: en-us
