@@ -21,7 +21,7 @@ sections:
       - title: Digital Innovation & Infrastructure
         image: images/service-1.svg
         content: |-
-          *Focused on leveraging technology for seamless business operations and transformative digital experiences.*
+          *Focused on leveraging tech for seamless business operations and transformative digital experiences.*
           - Web Development 
           - Digital Transformation
           - Managed Open Source Business Infrastructure ⁕
