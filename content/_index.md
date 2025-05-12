@@ -7,7 +7,7 @@ sections:
     title: >-
       Engineering at The Intersection of Technology and Design
     content: >-
-      Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
+      Julz Labs is a product studio and after-hours digital playground by [Stephen Ajulu](https://stephenajulu.netlify.app).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic 
