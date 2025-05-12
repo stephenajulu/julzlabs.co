@@ -6,7 +6,7 @@
     </div>
     {{ else }}
     <div class="navbar__title">
-      <a href='{{ "/" | relURL }}' styles="font-weight:900;">{{ $.Site.Data.config.header.title }}</a>
+      <a href='{{ "/" | relURL }}' style="font-weight:900;">{{ $.Site.Data.config.header.title }}</a>
     </div>
     {{ end }}
     {{ if .Site.Data.config.header.has_nav }}
