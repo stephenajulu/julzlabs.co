@@ -5,7 +5,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Welcome to JULZ INSIGHT, a visionary technology firm based in Nairobi, dedicated to building impactful tech products and solutions that illuminate your possibilities. Our innovative approach and commitment to excellence have positioned us as a leader in the tech industry, driving transformative change across various sectors. Founded in 2020 to revolutionize how businesses, individuals, and the globe leverage technology and open-source, JULZ INSIGHT has grown into a trusted partner for organizations across various industries seeking innovative solutions to complex challenges. Our team of experts brings years of technical experience and a passion for technology, ensuring we deliver solutions that are both innovative and practical.<br> <br><span style="font-weight: 700">Our Slogan</span> - Illuminating Possibilities<br> <br><span style="font-weight: 700">Our Mission</span> - To leverage cutting-edge technology to develop solutions that not only meet but exceed the evolving needs & demands of our clients, fostering sustainable growth and positive societal impact.<br> <br><span style="font-weight: 700">Our Vision</span> - To be a global leader in technological research and development, delivering solutions that transform industries and improve lives.<br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
+      Welcome to JULZ LABS, a visionary, forward-thinking R&D-driven product studio under Julz Holdings, pioneering digital and hardware innovations at the intersection of technology, design, and engineering. As an experimental arm of [Julz Insight](https://julzinsight.netlify.app), Julz Labs researches, develops, and optimizes emerging technologies—bridging the gap between bold ideas and market-ready solutions. <br> <br>Led by a one-man powerhouse, Julz Labs crafts human-centered, aesthetically refined, and strategically scalable digital and physical experiences that redefine industries.<br> <br><span style="font-weight: 700">Our Slogan</span> - *Where design meets engineering. Where innovation meets impact.* <br> <br><span style="font-weight: 700">Our Mission</span> - *To explore, engineer, and refine advanced digital and hardware solutions that merge technology and design, pushing the boundaries of innovation.* <br> <br><span style="font-weight: 700">Our Vision</span> - *To establish Julz Labs as a pioneering R&D-driven product studio, reshaping industries by seamlessly integrating design, technology, and engineering.* <br><br>Come, let's build something great today! **[Book A Consultation](/contact/)**
     image: images/julzbanner.png
     image_alt: JULZ Marketing Banner Illuminating Possibilities
 
@@ -17,29 +17,29 @@ sections:
         image: images/service-1.svg
         content: |-
           *Focused on leveraging tech for seamless business operations and transformative digital experiences.*
-          - Managed OSS Business Infrastructure ⁕
-          - Digital Transformation
-          - Web Development
-          - Cloud Solutions
-          - Automation & AI
+          - Managed OSS Business Infrastructure ⁕ - Deploying secure and cost-effective open-source solutions.
+          - Digital Transformation - Enhancing operational efficiency through modern tech integration.
+          - Web Development - High-performance, scalable websites and platforms.
+          - Cloud Solutions - Architecting robust cloud ecosystems for businesses.
+          - Automation & AI - Implementing AI-driven automation to optimize workflows.
       - title: Design Excellence & Brand Strategy
         image: images/service-2.svg
         content: |-
           *Elevating aesthetics, art, and brand identity through innovative, human-centered design.*
-          - Branding & Brand Identity Design ⁕
-          - Web Design
-          - Design System Development
-          - Retail & Packaging Design
-          - Naming & Strategy
+          - Branding & Brand Identity Design ⁕ - Crafting compelling visual identities that resonate.
+          - Web Design - Creating seamless, aesthetically refined user experiences.
+          - Design System Development - Establishing scalable frameworks for cohesive digital experiences.
+          - Retail & Packaging Design - Designing visually impactful, functional product packaging.
+          - Naming & Strategy - Developing brand names and positioning strategies.
       - title: Emerging Tech & Product Engineering
         image: images/service-3.svg
         content: |-
           *Pushing the boundaries of innovation with advanced technologies and research-driven development.*
-          - Business-Tech Consulting ⁕
-          - Human-Centered Product Design
-          - Hardware & IOT Prototyping
-          - Emerging Tech R&D
-          - Full-Stack Software Development
+          - Business-Tech Consulting ⁕ - Guiding businesses in the adoption of emerging technologies.
+          - Human-Centered Product Design - Engineering solutions with usability and experience at the forefront.
+          - Hardware & IOT Prototyping - Innovating in smart devices, wearables, and automation.
+          - Emerging Tech R&D - Exploring AI, blockchain, IoT, and beyond.
+          - Full-Stack Software Development - Creating intelligent applications with scalable architectures.
   - type: grid_section
     section_id: team
     title: The Team
@@ -47,7 +47,7 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: /images/1653516600275.jpg
-        subtitle: Founder, Tech & Product Lead
+        subtitle: Founder, Tech, Design & Product Lead
         content:
         actions:
           - label: Twitter
@@ -59,6 +59,11 @@ sections:
             url: https://instagram.com/stephenajulu
             style: icon
             icon: instagram
+            new_window: true
+          - label: LinkedIn
+            url: https://linkedin.com/in/stephenajulu
+            style: icon
+            icon: linkedin
             new_window: true
   - type: cta_section
     section_id: cta
@@ -72,17 +77,17 @@ sections:
         url: /contact
         style: button
 seo:
-  title: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
-  description: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience in Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+  title: About Us - Julz Labs | Product Studio & Digital Playground
+  description: Julz Labs is a visionary, forward-thinking R&D-driven product studio and after-hours digital playground by Stephen Ajulu under JULZ HOLDINGS, pioneering digital and hardware innovations at the intersection of technology, design, and engineering.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
+      value: About Us - Julz Labs | Product Studio & Digital Playground
       keyName: property
     - name: og:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+      value: Julz Labs is a visionary, forward-thinking R&D-driven product studio and after-hours digital playground by Stephen Ajulu under JULZ HOLDINGS, pioneering digital and hardware innovations at the intersection of technology, design, and engineering.
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -91,9 +96,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About Us - Julz Insight | Illuminating Possibilities Through Tech and Innovation
+      value: About Us - Julz Labs | Product Studio & Digital Playground
     - name: twitter:description
-      value: Learn more about Julz Insight, our team, our processes, our solutions, our work, and more. We are a tech solutions firm & lab based in Nairobi, Kenya, with over a decade of experience with Software, Web, AI, Cloud, Design & Digital Transformation Expertise. We build impactful tech products and solutions that solve complex challenges. Pioneering innovation. Illuminating possibilities.
+      value: Julz Labs is a visionary, forward-thinking R&D-driven product studio and after-hours digital playground by Stephen Ajulu under JULZ HOLDINGS, pioneering digital and hardware innovations at the intersection of technology, design, and engineering.
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true
