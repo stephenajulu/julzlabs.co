@@ -21,7 +21,7 @@ sections:
         image: images/service-1.svg
         content: |-
           *Focused on leveraging tech for seamless business operations and transformative digital experiences.*
-          - Managed Open-Source Business Infrastructure ⁕
+          - Managed OSS Business Infrastructure ⁕
           - Digital Transformation
           - Web Development
           - Cloud Solutions
