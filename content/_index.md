@@ -39,7 +39,7 @@ sections:
         image: images/service-3.svg
         content: |-
           *Pushing the bounderies of innovation with advanced technologies and research-driven development.*
-          - Tech Consulting ⁕
+          - Business-Tech Consulting ⁕
           - Human-Centered Product Design
           - Hardware & IOT Prototyping
           - Emerging Tech R&D
