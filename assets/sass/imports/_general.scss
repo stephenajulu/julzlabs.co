@@ -12,7 +12,7 @@ body {
   background: $color-gray-600;
   color: $color-gray-900;
   line-height: 1.66667;
-  -webkit-font-smoothing: auto; //atialiased
+  -webkit-font-smoothing: antialiased; //atialiased
   -moz-osx-font-smoothing: auto; //grayscale
   text-rendering: optimizeLegibility;
 }
