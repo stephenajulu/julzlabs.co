@@ -21,29 +21,14 @@ sections:
         image: images/service-1.svg
         content: |-
           *Focused on leveraging tech for seamless business operations and transformative digital experiences.*
-          - Managed OSS Business Infrastructure ⁕
-          - Digital Transformation
-          - Web Development
-          - Cloud Solutions
-          - Automation & AI
       - title: Design Excellence & Brand Strategy
         image: images/service-2.svg
         content: |-
-          *Elevating aesthetics, art and brand identity through innovative, human-centered design.*
-          - Branding & Brand Identity Design ⁕
-          - Web Design
-          - Design System Development
-          - Retail & Packaging Design
-          - Naming & Strategy
+          *Elevating aesthetics, art, and brand identity through innovative, human-centered design.*
       - title: Emerging Tech & Product Engineering
         image: images/service-3.svg
         content: |-
-          *Pushing the bounderies of innovation with advanced technologies and research-driven development.*
-          - Business-Tech Consulting ⁕
-          - Human-Centered Product Design
-          - Hardware & IOT Prototyping
-          - Emerging Tech R&D
-          - Full-Stack Software Development
+          *Pushing the boundaries of innovation with advanced technologies and research-driven development.*
 seo:
   title: Julz Labs | Product Studio & Digital Playground
   description: >-
