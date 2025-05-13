@@ -10,8 +10,6 @@ sections:
     image_alt: JULZ Marketing Banner Illuminating Possibilities
   - type: grid_section
     section_id: services
-    title: Services
-    subtitle: Our solutions and services
     col_number: three
     grid_items:
       - title: Business Technology Consulting
