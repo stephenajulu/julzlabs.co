@@ -44,7 +44,7 @@ sections:
 seo:
   title: Julz Labs | Product Studio & Digital Playground
   description: >-
-   Engineering at The Intersection of Technology and Design,  Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
+   Julz Labs is a visionary, forward-thinking R&D-driven product studio and after-hours digital playground by Stephen Ajulu under JULZ HOLDINGS, pioneering digital and hardware innovations at the intersection of technology, design, and engineering.
   extra:
     - name: 'og:type'
       value: website
@@ -54,7 +54,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Engineering at The Intersection of Technology and Design,  Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
+        Julz Labs is a visionary, forward-thinking R&D-driven product studio and after-hours digital playground by Stephen Ajulu under JULZ HOLDINGS, pioneering digital and hardware innovations at the intersection of technology, design, and engineering.
       keyName: property
     - name: 'og:image'
       value: images/socialimage.png
@@ -69,6 +69,6 @@ seo:
       value: Julz Labs | Product Studio & Digital Playground
     - name: 'twitter:description'
       value: >-
-        Engineering at The Intersection of Technology and Design,  Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu.
+        Julz Labs is a visionary, forward-thinking R&D-driven product studio and after-hours digital playground by Stephen Ajulu under JULZ HOLDINGS, pioneering digital and hardware innovations at the intersection of technology, design, and engineering.
 layout: advanced
 ---
