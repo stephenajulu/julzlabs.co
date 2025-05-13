@@ -15,16 +15,15 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: services
-    title: Services
     col_number: three
     grid_items:
       - title: Digital Innovation & Infrastructure
         image: images/service-1.svg
         content: |-
           *Focused on leveraging tech for seamless business operations and transformative digital experiences.*
-          - Web Development 
+          - Managed Open-Source Business Infrastructure ⁕
           - Digital Transformation
-          - Managed Open Source Business Infrastructure ⁕
+          - Web Development
           - Cloud Solutions
           - Automation & AI
       - title: Design Excellence & Brand Strategy
