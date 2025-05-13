@@ -19,14 +19,26 @@ sections:
     grid_items:
       - title: Digital Innovation & Infrastructure
         image: images/service-1.svg
+        actions:
+          - label: Learn more →
+            url: /about
+            style: link
         content: |-
           *Focused on leveraging tech for seamless business operations and transformative digital experiences.*
       - title: Design Excellence & Brand Strategy
         image: images/service-2.svg
+        actions:
+          - label: Learn more →
+            url: /about
+            style: link
         content: |-
           *Elevating aesthetics, art, and brand identity through innovative, human-centered design.*
       - title: Emerging Tech & Product Engineering
         image: images/service-3.svg
+        actions:
+          - label: Learn more →
+            url: /about
+            style: link
         content: |-
           *Pushing the boundaries of innovation with advanced technologies and research-driven development.*
 seo:
