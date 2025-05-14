@@ -1,6 +1,6 @@
 ---
 title: Our Story
-subtitle: JULZ is a tight-knit team with senior tech & product experience
+subtitle: Julz Labs is a product studio and after-hours digital playground by Stephen Ajulu
 hide_title: false
 sections:
   - type: content_section
