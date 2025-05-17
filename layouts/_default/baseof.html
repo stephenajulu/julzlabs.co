@@ -81,8 +81,8 @@
     
 <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
     <!--{{if .IsHome}}<img src="/images/julz5-90blur-edited.png" alt="hero image" loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: contain; object-position: center center; opacity: 1; transition: none;">{{ end }}-->
-   <div style="filter: blur(5px);"> <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.96/build/spline-viewer.js"></script>
-    <spline-viewer url="https://prod.spline.design/Ew94-7Vkb0eqm1bl/scene.splinecode"></spline-viewer></div>
+   <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.96/build/spline-viewer.js"></script>
+    <spline-viewer url="https://prod.spline.design/Ew94-7Vkb0eqm1bl/scene.splinecode"></spline-viewer>
     <div id="site-wrap" class="site content">
         {{ partial "header.html" . }}
         <main id="content" class="site-content"> {{ block "content" . }}{{ end }} </main>
