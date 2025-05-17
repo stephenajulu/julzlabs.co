@@ -32,3 +32,14 @@
     z-index: 1;
   } */
 
+spline-viewer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center center;
+  opacity: 1;
+  transition: none;
+}
