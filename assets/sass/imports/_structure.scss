@@ -12,9 +12,6 @@
   -ms-flex-positive: 1;
   flex-grow: 1;
   width: 100%;
-  background: transparent;
-  position: relative;  /* Helps control stacking order */
-  z-index: 1;
 }
 
 .container {
