@@ -31,12 +31,6 @@
     -webkit-backdrop-filter: blur(40px);
     z-index: 1;
   } */
-
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
 /* Background div */
 .bg {
   position: fixed;
@@ -48,13 +42,5 @@ html, body {
   background-size: cover; /* or 'contain' if you prefer that effect */
   filter: blur(16px);
   pointer-events: none; /* ensures it won’t capture clicks */
-  z-index: -1; /* ensures it sits behind other content */
-}
-
-/* Main content container */
-.site-content {
-  background: transparent !important;  /* Make sure no solid background covers the BG */
-  position: relative;  /* Establishes a stacking context */
-  z-index: 1;
-  min-height: 100vh; /* Ensures it spans at least the full viewport height */
+  z-index: 1; /* ensures it sits behind other content */
 }
