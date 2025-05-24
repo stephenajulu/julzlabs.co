@@ -32,6 +32,12 @@
     z-index: 1;
   } */
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* Background div */
 .bg {
   position: fixed;
   top: 0;
@@ -39,9 +45,17 @@
   width: 100%;
   height: 100%;
   background: url('/images/julzlabsbg1.jpg') no-repeat center center;
-  background-size: cover;
-  z-index: -1;         /* Ensures the bg stays behind other elements */
-  pointer-events: none; /* Prevents the background from intercepting clicks */
-  filter: blur(16px);   /* Optional: adds a blur effect similar to your previous version */
+  background-size: cover; /* or 'contain' if you prefer that effect */
+  filter: blur(16px);
+  pointer-events: none; /* ensures it won’t capture clicks */
+  z-index: -1; /* ensures it sits behind other content */
+}
+
+/* Main content container */
+.site.content {
+  background: transparent !important;  /* Make sure no solid background covers the BG */
+  position: relative;  /* Establishes a stacking context */
+  z-index: 1;
+  min-height: 100vh; /* Ensures it spans at least the full viewport height */
 }
 
